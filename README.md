@@ -122,5 +122,5 @@ The LangChain framework revolves around the following building blocks:
   $ git clone https://github.com/kiranupgrad/semantic-spotter-project.git
   ```
 - Open
-  the [notebook](https://github.com/kiranupgrad/semantic-spotter-project/blob/main/semantic-spotter-langchain-notebook.ipynb)
+  the [notebook](https://github.com/kiranupgrad/semantic-spotter-project/blob/main/semantic_spotter_langchain_notebook.ipynb)
   in jupyter and run all cells.
